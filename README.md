@@ -6,7 +6,7 @@ Entre os conhecimentos obtidos, pode-se destacar a importância da correta utili
 
 | Plugin  | Descrição                                                                                             |
 | ------- | ----------------------------------------------------------------------------------------------------- |
-| Babel   | Babel: Utilizado para converter/transpilar o código React para um código que o _browser_ entenda.     |
+| Babel   | Utilizado para converter/transpilar o código React para um código que o _browser_ entenda.     |
 | Webpack | Para cada tipo de arquivo (.js, .css, .png etc) converte/transpila o código de uma maneira diferente. |
 
 Também, foi possível revisar os conceitos mais importantes do React:
