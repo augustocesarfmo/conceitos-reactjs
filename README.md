@@ -2,8 +2,10 @@
 
 Esta aplicação reforça os conhecimentos básicos para construção de uma aplicação front-end utilizando o _framework_ ReactJS.
 
+## Conhecimentos Obtidos
 Entre os conhecimentos obtidos, pode-se destacar a importância da correta utilização dos seguintes plugins:
 
+### Plugins
 | Plugin  | Descrição                                                                                             |
 | ------- | ----------------------------------------------------------------------------------------------------- |
 | Babel   | Utilizado para converter/transpilar o código React para um código que o _browser_ entenda.     |
@@ -11,6 +13,7 @@ Entre os conhecimentos obtidos, pode-se destacar a importância da correta utili
 
 Também, foi possível revisar os conceitos mais importantes do React:
 
+### Conceitos mais importantes do React
 | Conceito               | Descrição                                                                                                                                                                                                                                                                                                     |
 | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Componente             | Permite você dividir a _User Interface_ (UI) em partes independentes, reutilizáveis e pensar em cada parte isoladamente. Conceitualmente, componentes são como funções JavaScript. Eles aceitam entradas arbitrárias (chamadas "props") e retornam elementos React que descrevem o que deve aparecer na tela. |
