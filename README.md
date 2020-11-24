@@ -3,19 +3,10 @@
 Esta aplicação reforça os conhecimentos básicos para construção de uma aplicação *front-end* utilizando o _framework_ ReactJS.
 
 - [Conceitos do ReactJS](#head1)
-	- [🔌 Plugins](#head3)
 	- [📚 Conceitos mais importantes do React](#head4)
 	- [🚀 Tecnologias](#head5)
 	- [ℹ️ Executando](#head6)
 	- [📝 Licença](#head7)
-
-### <span id="head3">🔌 Plugins</span>
-| Plugin  | Descrição                                                                                             |
-| ------- | ----------------------------------------------------------------------------------------------------- |
-| Babel   | Utilizado para converter/transpilar o código React para um código que o _browser_ entenda.     |
-| Webpack | Para cada tipo de arquivo (.js, .css, .png etc) converte/transpila o código de uma maneira diferente. |
-
-Também, foi possível revisar os conceitos mais importantes do React:
 
 ### <span id="head4">📚 Conceitos mais importantes do React</span>
 | Conceito               | Descrição                                                                                                                                                                                                                                                                                                     |
