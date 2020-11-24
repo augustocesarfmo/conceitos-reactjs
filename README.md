@@ -3,17 +3,13 @@
 Esta aplicação reforça os conhecimentos básicos para construção de uma aplicação *front-end* utilizando o _framework_ ReactJS.
 
 - [Conceitos do ReactJS](#head1)
-	- [📚 Conhecimentos obtidos](#head2)
-		- [ Plugins](#head3)
-		- [Conceitos mais importantes do React](#head4)
+	- [🔌 Plugins](#head3)
+	- [📚 Conceitos mais importantes do React](#head4)
 	- [🚀 Tecnologias](#head5)
 	- [ℹ️ Executando](#head6)
 	- [📝 Licença](#head7)
-  
-## <span id="head2">📚 Conhecimentos obtidos</span>
-Entre os conhecimentos obtidos, pode-se destacar a importância da correta utilização dos seguintes plugins:
 
-### <span id="head3"> Plugins</span>
+### <span id="head3">🔌 Plugins</span>
 | Plugin  | Descrição                                                                                             |
 | ------- | ----------------------------------------------------------------------------------------------------- |
 | Babel   | Utilizado para converter/transpilar o código React para um código que o _browser_ entenda.     |
@@ -21,7 +17,7 @@ Entre os conhecimentos obtidos, pode-se destacar a importância da correta utili
 
 Também, foi possível revisar os conceitos mais importantes do React:
 
-### <span id="head4">Conceitos mais importantes do React</span>
+### <span id="head4">📚 Conceitos mais importantes do React</span>
 | Conceito               | Descrição                                                                                                                                                                                                                                                                                                     |
 | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Componente             | Permite você dividir a _User Interface_ (UI) em partes independentes, reutilizáveis e pensar em cada parte isoladamente. Conceitualmente, componentes são como funções JavaScript. Eles aceitam entradas arbitrárias (chamadas "props") e retornam elementos React que descrevem o que deve aparecer na tela. |
