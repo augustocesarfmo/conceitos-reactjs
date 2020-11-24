@@ -2,6 +2,8 @@
 
 Esta aplicação reforça os conhecimentos básicos para construção de uma aplicação *front-end* utilizando o _framework_ ReactJS.
 
+![](https://imgur.com/Bfscc4v.png)
+
 - [Conceitos do ReactJS](#head1)
 	- [📚 Principais conceitos do React](#head4)
 	- [🚀 Tecnologias](#head5)
