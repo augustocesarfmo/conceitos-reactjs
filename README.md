@@ -1,11 +1,19 @@
-# Conceitos do ReactJS
+# <span id="head1">Conceitos do ReactJS</span>
 
-Esta aplicação reforça os conhecimentos básicos para construção de uma aplicação front-end utilizando o _framework_ ReactJS.
+Esta aplicação reforça os conhecimentos básicos para construção de uma aplicação *front-end* utilizando o _framework_ ReactJS.
 
-## Conhecimentos Obtidos
+- [Conceitos do ReactJS](#head1)
+	- [📚 Conhecimentos obtidos](#head2)
+		- [ Plugins](#head3)
+		- [Conceitos mais importantes do React](#head4)
+	- [🚀 Tecnologias](#head5)
+	- [ℹ️ Executando](#head6)
+	- [📝 Licença](#head7)
+  
+## <span id="head2">📚 Conhecimentos obtidos</span>
 Entre os conhecimentos obtidos, pode-se destacar a importância da correta utilização dos seguintes plugins:
 
-### Plugins
+### <span id="head3"> Plugins</span>
 | Plugin  | Descrição                                                                                             |
 | ------- | ----------------------------------------------------------------------------------------------------- |
 | Babel   | Utilizado para converter/transpilar o código React para um código que o _browser_ entenda.     |
@@ -13,22 +21,22 @@ Entre os conhecimentos obtidos, pode-se destacar a importância da correta utili
 
 Também, foi possível revisar os conceitos mais importantes do React:
 
-### Conceitos mais importantes do React
+### <span id="head4">Conceitos mais importantes do React</span>
 | Conceito               | Descrição                                                                                                                                                                                                                                                                                                     |
 | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Componente             | Permite você dividir a _User Interface_ (UI) em partes independentes, reutilizáveis e pensar em cada parte isoladamente. Conceitualmente, componentes são como funções JavaScript. Eles aceitam entradas arbitrárias (chamadas "props") e retornam elementos React que descrevem o que deve aparecer na tela. |
 | Propriedade            | Informações que você pode passar de um componente pai para um componente filho. Observação: Independente da declaração de um componente, como uma função ou uma classe, nuca se deve modificar suas próprias propriedades.                                                                                    |
 | Estado & Imutabilidade | O estado armazena/controla as informações que podem ser exibidas na UI. O estado em si é imutável, ou seja, para realizar alterações em tela é necessário recriar o estado baseado nas informações anteriores.                                                                                                |
 
-## Tecnologias
+## <span id="head5">🚀 Tecnologias</span>
 
 Este projeto foi desenvolvido com as seguintes tecnologias:
 
-- [ReactJS](https://reactjs.org)
-- [Axios](https://github.com/axios/axios)
-- [VS Code][vc]
+- [reactjs](https://reactjs.org)
+- [axios](https://github.com/axios/axios)
+- [vs code][vc]
 
-## Executando
+## <span id="head6">ℹ️ Executando</span>
 
 Para clonar e executar este aplicativo, você precisará de [Git](https://git-scm.com), [Node.js v12.13][nodejs] ou superior + [Yarn v1.19][yarn] ou superior instalado no seu computador.
 
@@ -48,13 +56,13 @@ $ yarn install
 $ yarn start
 ```
 
-## 📝 Licença
+## <span id="head7">📝 Licença</span>
 
 Este projeto está sob a licença MIT. Consulte a [LICENÇA](https://github.com/fradeneto/devradar-mobile/blob/master/LICENSE) para obter mais informações.
 
 ---
 
-by Augusto César
+by Augusto César Oliveira 👐🏼
 
 [nodejs]: https://nodejs.org/
 [yarn]: https://yarnpkg.com/
