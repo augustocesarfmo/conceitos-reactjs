@@ -23,7 +23,6 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 - [reactjs](https://reactjs.org)
 - [axios](https://github.com/axios/axios)
-- [vs code][vc]
 
 ## <span id="head6">ℹ️ Executando</span>
 
