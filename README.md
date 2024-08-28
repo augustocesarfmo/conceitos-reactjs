@@ -1,6 +1,6 @@
 # <span id="head1">Conceitos do ReactJS</span>
 
-Esta aplicação reforça os conhecimentos básicos para construção de uma aplicação *front-end* utilizando o _framework_ ReactJS.
+Esta aplicação reforça os conhecimentos básicos para construção de uma aplicação front-end utilizando o framework ReactJS.
 
 ![](https://imgur.com/Bfscc4v.png)
 
